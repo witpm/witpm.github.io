@@ -1,2 +1,2 @@
 # witpm.github.io
-WIT Project Management GitHub Site
+Welcome to the WIT Project Management GitHub Resource Site
