@@ -1,6 +1,6 @@
 # witpm.github.io
 Welcome to the WIT Project Management Knowledge Repository!
-WIT is a Project Management Consulting Company specializing in Technology and Software Development projects. Our goal at WIT is to enable SMARTER, not HARDER projects. We believe that SMARTER projects begin with SMART Project Goals. 
+WIT is a Project Management Consulting Company specializing in Technology Implementation, Software Development, Application Development and Dev/Ops projects. Our goal at WIT is to enable SMARTER, not HARDER projects. We believe that SMARTER projects begin with SMART Project Goals. 
 
 What Are S.M.A.R.T. Project Goals?
 S.M.A.R.T. goals are a relatively new idea. In 1981, George T. Doran, a consultant and former director of corporate planning for Washington Water Power Company, published a paper called, “There’s a S.M.A.R.T. Way to Write Management’s Goals and Objectives.” In the document, he introduces S.M.A.R.T. goals as a tool to create criteria to help improve the chances of succeeding in accomplishing a goal.
