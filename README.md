@@ -1,6 +1,6 @@
 # witpm.github.io
 Welcome to the WIT Project Management Knowledge Repository!
-WIT is a Project Management Consulting Company specializing in Technology and Software Development projects. 
+WIT is a Project Management Consulting Company specializing in Technology and Software Development projects. Our goal at WIT is to enable smarter, not harder projects. 
 
 Project Management Methodology 
 The GitHub Project Resource Repository 
