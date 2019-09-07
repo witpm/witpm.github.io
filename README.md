@@ -1,5 +1,6 @@
 # witpm.github.io
 Welcome to the WIT Open Source Project Management Resources Site on GitHub
+WIT Project Management specializes in project managment consulting and implementation for Technology and Software Development projects. 
 
 Project Management Methodology 
 The GitHub Project Resource Repository 
