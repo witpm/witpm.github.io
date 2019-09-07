@@ -1,5 +1,5 @@
 # witpm.github.io
-Welcome to the WIT Project Management GitHub Resource Site 
+Welcome to the WIT Open Source Project Management Resources Site on GitHub
 
 Project Management Methodology 
 The GitHub Project Resource Repository 
