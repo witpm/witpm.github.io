@@ -1,7 +1,7 @@
 # witpm.github.io
 Welcome to the WIT Project Management Knowledge Repository!
 
-WIT is a Project Management Consulting Company specializing in IT-related projects. 
+WIT is a Project Management Consulting Company specializing in IT related projects. 
 
 Business Process Projects - Focus on the tasks that you and your team perform repeatedly to create a product or service for your stakeholder, sponsor or customer. Business process can be modeled as a flowchart, which details the tasks necessary to serve that business goal.
 
