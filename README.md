@@ -16,4 +16,7 @@ Business process as a concept has been around for a long time. As early as 1776,
 
 In the early 20th century, American engineer Frederick Winslow Taylor offered methods to improve business processes in industry. He focused on standardization of processes, systemic training and clearly defined roles for management and employees in his Principles of Scientific Management.
 
-Peter Drucker, the management expert, focused on simplifying and decentralizing processes. This lead to outsourcing. He is also known for founding the idea of “knowledge worker,” which is a term to differentiate those from manual workers and applied knowledge management to process.
+Peter Drucker, the management expert, focused on simplifying and decentralizing processes. This lead to outsourcing. He is also known for founding the idea of “knowledge worker,” which is a term to differentiate those from manual workers and applied knowledge management to process.Business process is simply a series of tasks that you and your team perform repeatedly to create a product or service for your stakeholder, sponsor or customer. Business process can be modeled as a flowchart, which details the tasks necessary to serve that business goal.
+
+
+
